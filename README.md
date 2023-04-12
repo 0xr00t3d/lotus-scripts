@@ -28,6 +28,7 @@ We're developing scripts for famous CVEs, like CVE-2014-2321, CVE-2019-11248, CV
 | CVE-2021-21985 VMware vCenter| :hourglass_flowing_sand: In progress |
 | OWASP Top 10 Scanner         | :hourglass_flowing_sand: In progress |
 | Recon Script                 | :hourglass_flowing_sand: In progress |
+| SVN dir exposure Scanner     | :heavy_check_mark: Finished  |
 
 ### Usage 🚀
 
